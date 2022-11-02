@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.button {
+  border: solid black 3px;
+  background-color: yellow;
+  color: blue;
+  font-weight: bold;
+}
+
+.hr {
+  border: dashed blue 1px;
+  width: 700px;
+}
+
+.h4 {
+  background-color: yellow;
+  color: blue;
+  width: 700px;
+}
+
+
